@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f9c7765-ce8b-43eb-8739-e30ecfe5a9a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/AccessIdentifiers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Car.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/ConstructorAndInit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/GetterAndSetter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/DataClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Abstract.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Interface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Override.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinExamples/META-INF/KotlinExamples.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinExamples/META-INF/KotlinExamples.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/CreateClassAndObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/CreateClassAndObject.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/classes/AccessIdentifiers.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -45,16 +44,61 @@
         <entry file="file://$PROJECT_DIR$/src/classes/ConstructorAndInit.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/GetterAndSetter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/Inheritance.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/Override.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/Abstract.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="101" selection-start-line="21" selection-start-column="101" selection-end-line="21" selection-end-column="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/Interface.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classes/GetterAndSetter.kt">
+        <entry file="file://$PROJECT_DIR$/src/classes/DataClass.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="375">
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -108,6 +152,11 @@
         <option value="$PROJECT_DIR$/src/classes/ConstructorAndInit.kt" />
         <option value="$PROJECT_DIR$/src/classes/CreateClassAndObject.kt" />
         <option value="$PROJECT_DIR$/src/classes/GetterAndSetter.kt" />
+        <option value="$PROJECT_DIR$/src/inheritance/Inheritance.kt" />
+        <option value="$PROJECT_DIR$/src/inheritance/Override.kt" />
+        <option value="$PROJECT_DIR$/src/inheritance/Abstraction.kt" />
+        <option value="$PROJECT_DIR$/src/inheritance/Interface.kt" />
+        <option value="$PROJECT_DIR$/src/classes/DataClass.kt" />
       </list>
     </option>
   </component>
@@ -119,9 +168,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="767" />
-    <option name="height" value="875" />
+    <option name="y" value="27" />
+    <option name="width" value="757" />
+    <option name="height" value="654" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -157,20 +206,13 @@
               <item name="KotlinExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinExamples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,67 +249,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.classes.GetterAndSetterKt">
-    <configuration name="basics.collections.HashMapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.classes.DataClassKt">
+    <configuration name="classes.DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinExamples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basics.collections.HashMapKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.DataClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basics.collections.SetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="inheritance.AbstractKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinExamples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basics.collections.SetKt" />
+      <option name="MAIN_CLASS_NAME" value="inheritance.AbstractKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classes.ConstructorAndInitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="inheritance.InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinExamples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.ConstructorAndInitKt" />
+      <option name="MAIN_CLASS_NAME" value="inheritance.InheritanceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classes.GetterAndSetterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="inheritance.InterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinExamples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.GetterAndSetterKt" />
+      <option name="MAIN_CLASS_NAME" value="inheritance.InterfaceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="helloworld.HelloWorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="inheritance.OverrideKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinExamples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="helloworld.HelloWorldKt" />
+      <option name="MAIN_CLASS_NAME" value="inheritance.OverrideKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -275,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.classes.GetterAndSetterKt" />
-        <item itemvalue="Kotlin.classes.ConstructorAndInitKt" />
-        <item itemvalue="Kotlin.basics.collections.SetKt" />
-        <item itemvalue="Kotlin.helloworld.HelloWorldKt" />
-        <item itemvalue="Kotlin.basics.collections.HashMapKt" />
+        <item itemvalue="Kotlin.classes.DataClassKt" />
+        <item itemvalue="Kotlin.inheritance.InterfaceKt" />
+        <item itemvalue="Kotlin.inheritance.AbstractKt" />
+        <item itemvalue="Kotlin.inheritance.OverrideKt" />
+        <item itemvalue="Kotlin.inheritance.InheritanceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +341,7 @@
       <workItem from="1558886739521" duration="5954000" />
       <workItem from="1559062069437" duration="6880000" />
       <workItem from="1559838304394" duration="1198000" />
-      <workItem from="1559995461961" duration="4537000" />
+      <workItem from="1559995461961" duration="10996000" />
     </task>
     <task id="LOCAL-00001" summary="kotlin basics">
       <created>1559072167443</created>
@@ -308,17 +350,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559072167443</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="oop in kotlin (access identifiers, constructor, init, getter/setter)">
+      <created>1560001028274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560001028274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37696000" />
+    <option name="totallyTimeSpent" value="44155000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="767" height="875" extended-state="4" />
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2482663" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14122394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,7 +404,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="kotlin basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="kotlin basics" />
+    <MESSAGE value="oop in kotlin (access identifiers, constructor, init, getter/setter)" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop in kotlin (access identifiers, constructor, init, getter/setter)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/operators/Operators.kt" />
@@ -384,7 +434,7 @@
     <entry file="file://$PROJECT_DIR$/src/classes/AccessIdentifiers.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -398,7 +448,7 @@
     <entry file="file://$PROJECT_DIR$/src/classes/ConstructorAndInit.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -406,6 +456,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Inheritance.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Override.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Abstract.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="101" selection-start-line="21" selection-start-column="101" selection-end-line="21" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Interface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/DataClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
         </state>
       </provider>
     </entry>
